@@ -26,7 +26,7 @@ Images
 
 Links
 ------
-![Atom](https://www.youtube.com/watch?v=_lNF3_30lUE)
+[Atom](https://www.youtube.com/watch?v=_lNF3_30lUE)
 
 
 +[ohms law](https://github.com/mixmix/nice_eqns/blob/master/physics/ohms_law.md)
