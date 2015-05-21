@@ -1,4 +1,4 @@
-view [*hypermarkdown*](http://hypermarkdown.herokuapp.com)
+view [*hypermarkdown*](http://hypermarkdown.herokuapp.com/)
 
 The Atom
 ========
