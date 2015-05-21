@@ -27,4 +27,4 @@ Links
 ![Atom](https://www.youtube.com/watch?v=_lNF3_30lUE)
 
 
-+[ohm's law](https://github.com/mixmix/nice_eqns/blob/master/physics/ohms_law.md)
++[ohms law](https://github.com/mixmix/nice_eqns/blob/master/physics/ohms_law.md)
