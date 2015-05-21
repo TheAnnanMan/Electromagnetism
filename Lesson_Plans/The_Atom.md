@@ -1,3 +1,5 @@
+view [*hypermarkdown*](http://hypermarkdown.herokuapp.com)
+
 The Atom
 ========
 
@@ -28,3 +30,4 @@ Links
 
 
 +[ohms law](https://github.com/mixmix/nice_eqns/blob/master/physics/ohms_law.md)
+
