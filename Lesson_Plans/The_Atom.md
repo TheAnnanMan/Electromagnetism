@@ -31,7 +31,9 @@ Links
 
 Next Steps
 ------------
+
 [Electric Charge](https://www.youtube.com/watch?v=_lNF3_30lUE)
+
 [Nuclear Physiucs](https://www.youtube.com/watch?v=_lNF3_30lUE)
 
 
