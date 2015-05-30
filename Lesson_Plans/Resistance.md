@@ -11,7 +11,7 @@ If it is difficult for the charge to move quickly (for there to be a large *curr
 
 The Equation that models is this relationship Ohm's Law:
 
-+[*V = I.R*](https://github.com/mixmix/nice_eqns/blob/master/physics/ohms_law.md)
+*+[V = I.R](https://github.com/mixmix/nice_eqns/blob/master/physics/ohms_law.md)*
 
 
 
