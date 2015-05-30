@@ -5,20 +5,15 @@ The setup looks like this:
 The ammeter measure 0.356 A (3 s.f.)
 
 So the variables we know are: 
-V = 12.0
-I = 0.356
-R = ? 
+`V = 12.0`, `I = 0.356`, `R = ?`
 
 Substituting those into the equation we get: 
 ```
 V = I.R
 12.0 = 0.356 x R
 ```
-
-To figure out what R is, we need to rearrange the equation into the form `R = answer`. At the moment there's a 0.356 multiplying with R. 
-To nullify the 0.356, we apply the inverse (opposite) of multiplication by 0.356 to both sides of the equation: we divide by 0.356
++[see working](https://github.com/TheAnnanMan/Electromagnetism/blob/master/Lesson_Plans/Resistance_resources/worked_ex1_details_a.md)
 ```
-12.0/ 0.356 = (0.356 x R) / 0.356
 33.7 = R
 ```
 
