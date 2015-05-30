@@ -23,7 +23,7 @@ The Equation that models is this relationship Ohm's Law:
 
 **Ex 1:** +[the banana](https://github.com/TheAnnanMan/Electromagnetism/blob/master/Lesson_Plans/Resistance_resources/worked_ex_1.md)
 
-
+**Ex 2:** +[the exploding banana](https://github.com/TheAnnanMan/Electromagnetism/blob/master/Lesson_Plans/Resistance_resources/worked_ex2.md)
 
 
 
