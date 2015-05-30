@@ -18,12 +18,12 @@ The Equation that models is this relationship Ohm's Law:
 
 ## Worked examples
 
-**Ex 1:** +[the banana](https://github.com/TheAnnanMan/Electromagnetism/blob/master/Lesson_Plans/Resistance_resources/worked_example_1.md)
+**Ex 1:** +[the banana](https://github.com/TheAnnanMan/Electromagnetism/blob/master/Lesson_Plans/Resistance_resources/worked_ex_1.md)
 
 
 
 
 
-## Further reading
+## Further resources
 
 - [Ohm's law on wikipedia](http://en.wikipedia.org/wiki/Ohm%27s_law)
