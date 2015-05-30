@@ -2,10 +2,8 @@
 ## Key concepts
 
 - Current is slowed by resistance
-
-           | Unit    | Symbol
------------|---------|---------
-Resistance | Ohms, Ω | R
+- Unit : **Ohms, Ω**
+- Symbol : **R**
 
 
 
