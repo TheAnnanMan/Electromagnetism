@@ -2,8 +2,13 @@
 ## Key concepts
 
 - Current is slowed by resistance
-- **Unit**: Ohms, Ω
-- **Symbol** : R
+
+           | Unit    | Symbol
+-----------|---------|---------
+Resistance | Ohms, Ω | R
+
+
+
 
 
 When there is a potential difference (a *voltage*) between two places, then charge experiences a force and begins to move as a current.
